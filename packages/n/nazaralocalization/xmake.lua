@@ -7,7 +7,7 @@ package("nazaralocalization")
 
 	add_urls("https://github.com/SweetId/NazaraLocalization.git")
 
-	add_versions("2023.11.21", "e5c9c2688cf12a7bb49833237c6deddea5fb3034")
+	add_versions("2023.11.24", "d7b342b93fa8864138c8f6c67647cf5e61233a0f")
 	
 	add_deps("nazaraengine")
 	add_deps("fmt")
